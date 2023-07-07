@@ -1,4 +1,4 @@
-# CodeClause_GoldPricePrediction
+# Gold Price Prediction
 Python Code for Gold Price Prediction
 
 1. IMPORTING MODULES
